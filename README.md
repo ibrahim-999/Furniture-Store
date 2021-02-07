@@ -1,2 +1,2 @@
 # Furniture-Store
-Online site for browsing furniture
+Online site for browsing furniture with JS
